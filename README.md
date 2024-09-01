@@ -1,5 +1,4 @@
 Implement Animated Bar Chart for Top Car Brands with Sales Data
-
 - Processed car brand sales data from an Excel file and restructured it into a DataFrame.
 - Created an animated bar chart that visualizes the top 10 car brands by sales for each year.
 - Implemented the display of brand logos next to the bars using OffsetImage and AnnotationBbox.
